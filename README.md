@@ -1,2 +1,2 @@
 # React_Counter_App
-Created with CodeSandbox
+Simple React Increment and Decrement Application
